@@ -27,15 +27,21 @@ console.log((13 + 8) / (2 - 1)); //What will this equal? Is it the same as the p
 
 console.log("The sum of 9 and 15 is: ");
 console.log(9+15); //change this line
+
 console.log("The difference between 100 and 48 is: ");
 console.log(100-48); //change this line
+
 console.log("The product of 56 and 32 is: ");
 console.log(56*32); //change this line
+
 console.log("The quotient of 198 and 6 is: ");
 console.log(198/6); //change this line
+
 console.log("3 raised to the 5th power is: ");
 console.log(3**5); //change this line
+
 console.log("The remainder when 45 is divided by 7 is: ")
 console.log(45%7); //change this line
+
 console.log("The product of 5 and 7 added to the quotient of 12 and 3 is: ");
 console.log(5*7); //change this line
