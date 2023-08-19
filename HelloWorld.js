@@ -8,3 +8,5 @@ console.log("So now they're in full programmer mode!");
 
 
 
+
+// This is going to be a hard restart to do beccause of the instructions of direction 
