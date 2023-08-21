@@ -23,7 +23,7 @@ console.log(fullNameConcat == fullNameInterp);
 let myAge = 21                                //add your age
 let faveFood =  'ice cream'                   //add your favorite food
 let faveColor = 'green'                       //add your favorite color
-let miniBio = `Hi I am ${myAge} years old and my favorite food is ${faveFood} with my favorite color being ${faveColor}`                 //use string interpolation to create summary that includes your full name, age, favorite food, and favorite color
+let miniBio = `Hi I am ${myAge} years old and my favorite food is ${faveFood} with my favorite color being ${faveColor}`      //use string interpolation to create summary that includes your full name, age, favorite food, and favorite color
 
 console.log("Your mini bio is:")
 console.log(miniBio);
