@@ -1,4 +1,4 @@
-//ex.6
+//ex.6 Comparisons with Strings
 
 console.log("true or false: wrapping in double quotes is the same as wrapping in single quotes");
 console.log("Hello world!" == 'Hello world!');      //True

@@ -1,4 +1,4 @@
-//EX.3 Strings And Anumbers
+//EX.3 Strings And numbers
 
 console.log("This is a string, it has quotes.")
 console.log(100)

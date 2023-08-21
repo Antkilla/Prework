@@ -1,4 +1,4 @@
-//Ex.4 -Numbers 
+//Ex.4 Arithmetic Operators: Math with Numbers
 
 console.log("5 + 4 = "); //9
 console.log(5 + 4);

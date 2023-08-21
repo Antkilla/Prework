@@ -1,4 +1,4 @@
-//ex. 7
+//ex. 7  variables and naming 
 
 const a = 4;          //There are 2 types of variables "const" and "let". 'const' means that variable number will never change while 'let' means that it can change
 const b = 3; 
@@ -45,8 +45,8 @@ const tip = 124.47 * 0.20           //calculate what a 20% tip on the bill would
 console.log('tax on bill is',tax.toFixed(2))
 console.log('tip before tax is',tip.toFixed(2))
 
-const billTotal = subtotal + tip + tax                   //calculate the total due for the bill
-const splitAmount = billTotal / 3                        //calculate how much each person pays if they decide to split the bill evenly
+const billTotal = subtotal + tip + tax                              //calculate the total due for the bill
+const splitAmount = billTotal / 3                                     //calculate how much each person pays if they decide to split the bill evenly
 
 console.log("The total due is", billTotal.toFixed(2));
 console.log("Split 3 ways is", splitAmount.toFixed(2), "each");

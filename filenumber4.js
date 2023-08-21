@@ -1,4 +1,4 @@
-//ex.5 comparison operations 
+//ex.5 comparison operations
 
 console.log("True or false: 5 is less than 2");
 console.log(5 < 2);                             //false
