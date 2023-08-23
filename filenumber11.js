@@ -1,4 +1,4 @@
-//Ex. Array Methods
+//Ex. 12 Array Methods
 
 const groceryList = ["eggs", "bread", "milk", "chicken", "apples", "carrots"];
 const getNextTime = [];
