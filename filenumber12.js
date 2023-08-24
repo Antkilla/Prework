@@ -1,4 +1,4 @@
-//Ex. 13  Conditional Statements and Control Flow
+//Ex.13  Conditional Statements and Control Flow
 
 const x = 1000;
 
