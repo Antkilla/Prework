@@ -1,9 +1,6 @@
 //Ex. 16 While Loops
 
 
-//Ex. 16 While Loops
-
-
 let countdown = 10;
 
 while (countdown >= 0) {
